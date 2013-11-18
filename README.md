@@ -14,10 +14,10 @@ Evaluation: evaluating measures, F-measure, precision, recall .etc
 
 PPNHandle: for reading input PPI network
 
-GoAnnotation: for mamping proteins to GO items and calculate functional interdepence between each GO item pair
+GoAnnotation: for maping proteins to GO items and calculate functional interdepence between each GO item pair
 
 
-MaxcliquesALG: Finding maxinum cluques in PP network
+MaxcliquesALG: Finding maxinum cluques in PPI network
 
 FileOperation: file operations, such as save, read....
 
